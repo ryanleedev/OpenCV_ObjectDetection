@@ -1,2 +1,2 @@
-# teamProject
-Team projects
+# Project
+projects
